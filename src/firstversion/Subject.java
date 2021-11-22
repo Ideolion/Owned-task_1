@@ -8,7 +8,8 @@ package firstversion;
  * @version 0_о
  */
 public class Subject {
-
+ 
+    
     /**
      * Поле имя субъекта
      */
